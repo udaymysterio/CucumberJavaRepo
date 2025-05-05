@@ -22,7 +22,7 @@ public class Loginset {
 	public void User_clicks_on_login_button() {
 	}
 
-	@Then("User should get successfully logged in")
-	public void User_should_get_successfully_logged_in() {
+	@Then("User should be successfully logged in")
+	public void User_should_be_successfully_logged_in() {
 	}
 }
